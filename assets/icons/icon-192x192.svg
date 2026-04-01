@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <rect width="192" height="192" fill="#080c18"/>
+  <rect x="16" y="16" width="160" height="160" fill="#f5a623" rx="24"/>
+  <text x="96" y="100" text-anchor="middle" fill="#080c18" font-family="Arial, sans-serif" font-size="48" font-weight="bold">🏆</text>
+  <text x="96" y="150" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="16">和平sh</text>
+</svg>
