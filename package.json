@@ -1,0 +1,13 @@
+{
+  "name": "pubg-skin-query",
+  "version": "1.0.0",
+  "description": "和平sh配置网站 - 离线查询与代码生成",
+  "scripts": {
+    "dev": "python -m http.server 8080",
+    "update": "python tools/update-data.py",
+    "update:version": "python tools/update-data.py --version"
+  },
+  "keywords": ["pubg", "skin", "query", "offline"],
+  "author": "",
+  "license": "MIT"
+}
